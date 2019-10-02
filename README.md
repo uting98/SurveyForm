@@ -1,5 +1,10 @@
 # Survey Form
 
+##Objective
+Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/VPaoNP.
+
+Fulfill the below user stories and get all of the tests to pass. Give it your own personal style.
+
 ## User Stories
 - [x] User Story #1: I can see a title with id="title"in H1 sized text.
 - [x] User Story #2: I can see a short explanation with id="description"in P sized text.
